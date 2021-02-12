@@ -1,11 +1,26 @@
-### Hello world 👋 🌏
+### Hello 世界 👋 🌏
 
-If you come across `kinbiko` on the internet, that's probably me. You can also call me Roger. He/him.
-I'm a 🇳🇴 (but don't like to talk about it) that has lived in 🇺🇸 and 🇬🇧, but now live in 🇯🇵 which is my final destination.
+<h1 align="center">Hi 👋, I'm Roger (he/him)</h1>
+<h3 align="center">An engineering manager and developer living in Japan</h3>
 
-- [🐧 Twitter](https://twitter.com/kinbiko) I mainly use Twitter as a source of images and videos of big dogs.
-- [🏠 Blag](https://kinbiko.com): Updates are infrequent.
-- [🔗 LinkedIn](https://www.linkedin.com/in/kinbiko/): I ghost recruiters.
-- [🚰 Twitch](https://twitch.tv/kinbiko): I wrote the [github.com/kinbiko/jsonassert](https://github.com/jsonassert) Go testing package on stream.
+<p align="left"> <a href="https://twitter.com/kinbiko" target="blank"><img src="https://img.shields.io/twitter/follow/kinbiko?logo=twitter&style=for-the-badge" alt="kinbiko" /></a> </p>
 
-I value people, improvement of daily work, and short feedback loops.
+- 🌱 I'm currently learning **SwiftUI and iOS development**
+- ♥️ I value people, improvement of daily work, and short feedback loops.
+- 📝 I regularly write articles on my blog [kinbiko.com](https://kinbiko.com)
+- 💬 Ask me about **code quality**, **developer productivity**, and **mentoring**.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kinbiko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kinbiko" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kinbiko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kinbiko" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2422278" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2422278" height="30" width="40" /></a>
+<a href="/https://kinbiko.com/index.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://kinbiko.com/index.xml" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinbiko&show_icons=true&locale=en&layout=compact" alt="kinbiko" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinbiko&show_icons=true&locale=en" alt="kinbiko" /></p>
